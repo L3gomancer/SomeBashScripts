@@ -1,2 +1,3 @@
-# SomeBashScripts
-A few scripts for general purpose
+# Some Bash Scripts
+
+A few Bash scripts. Descriptions in comments.
